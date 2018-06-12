@@ -1,3 +1,5 @@
+remote_theme: MHammond1/jekyll-theme-massively-src
+
 # Site
 title:              Massively
 bio:                'Jekyll version of the Massively theme by HTML5UP'
